@@ -1,0 +1,4 @@
+venv/
+exercises course.py
+main.py
+score.json
